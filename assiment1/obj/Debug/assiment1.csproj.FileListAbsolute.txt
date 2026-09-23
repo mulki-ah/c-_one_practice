@@ -1,0 +1,11 @@
+D:\semister5\c sharp\lessons\assiment1\assiment1\bin\Debug\assiment1.exe.config
+D:\semister5\c sharp\lessons\assiment1\assiment1\bin\Debug\assiment1.exe
+D:\semister5\c sharp\lessons\assiment1\assiment1\bin\Debug\assiment1.pdb
+D:\semister5\c sharp\lessons\assiment1\assiment1\obj\Debug\assiment1.csproj.AssemblyReference.cache
+D:\semister5\c sharp\lessons\assiment1\assiment1\obj\Debug\assiment1.Properties.Resources.resources
+D:\semister5\c sharp\lessons\assiment1\assiment1\obj\Debug\assiment1.csproj.GenerateResource.cache
+D:\semister5\c sharp\lessons\assiment1\assiment1\obj\Debug\assiment1.csproj.CoreCompileInputs.cache
+D:\semister5\c sharp\lessons\assiment1\assiment1\obj\Debug\assiment1.exe
+D:\semister5\c sharp\lessons\assiment1\assiment1\obj\Debug\assiment1.pdb
+D:\semister5\c sharp\lessons\assiment1\assiment1\obj\Debug\assiment1.exe.config
+D:\semister5\c sharp\lessons\assiment1\assiment1\obj\Debug\assiment1.form.resources
