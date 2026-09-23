@@ -1,0 +1,11 @@
+D:\semister5\c sharp\lessons\home assiments\home assiments\bin\Debug\home assiments.exe.config
+D:\semister5\c sharp\lessons\home assiments\home assiments\bin\Debug\home assiments.exe
+D:\semister5\c sharp\lessons\home assiments\home assiments\bin\Debug\home assiments.pdb
+D:\semister5\c sharp\lessons\home assiments\home assiments\obj\Debug\home assiments.csproj.AssemblyReference.cache
+D:\semister5\c sharp\lessons\home assiments\home assiments\obj\Debug\home_assiments.Form1.resources
+D:\semister5\c sharp\lessons\home assiments\home assiments\obj\Debug\home_assiments.Properties.Resources.resources
+D:\semister5\c sharp\lessons\home assiments\home assiments\obj\Debug\home assiments.csproj.GenerateResource.cache
+D:\semister5\c sharp\lessons\home assiments\home assiments\obj\Debug\home assiments.csproj.CoreCompileInputs.cache
+D:\semister5\c sharp\lessons\home assiments\home assiments\obj\Debug\home assiments.exe
+D:\semister5\c sharp\lessons\home assiments\home assiments\obj\Debug\home assiments.pdb
+D:\semister5\c sharp\lessons\home assiments\home assiments\obj\Debug\home assiments.exe.config
