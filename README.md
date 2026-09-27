@@ -74,17 +74,7 @@ After completing the course, students should be able to:
 * Lecture 07 - Arrays and Lists
 * Lecture 08 - ADO.NET
 * Lecture 09 - Desktop Application Development
-### Labs
-* Lab 01
-* Lab 02
-* Lab 03
-* Lab 04
-* Lab 05
-### Assignments
-* Assignment 01
-* Assignment 02
-* Assignment 03
----
+
 ## Assessment
 
 | Assessment | Weight |
@@ -139,10 +129,6 @@ The project should demonstrate concepts learned during the course, including:
 * Individual practice
 * Project-based learning
 ---
-## Instructor / Coordinator
-*Yahye Ali Isse*
-Department of Computer Application
-Faculty of Computer & Information Technology
-Jamhuriya University of Science & Technology
+
 
 
