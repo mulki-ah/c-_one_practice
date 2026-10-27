@@ -1,0 +1,22 @@
+D:\semister5\c sharp\lessons\logical operator\bin\Debug\logical operator.exe.config
+D:\semister5\c sharp\lessons\logical operator\bin\Debug\logical operator.exe
+D:\semister5\c sharp\lessons\logical operator\bin\Debug\logical operator.pdb
+D:\semister5\c sharp\lessons\logical operator\obj\Debug\logical operator.csproj.AssemblyReference.cache
+D:\semister5\c sharp\lessons\logical operator\obj\Debug\logical_operator.Form1.resources
+D:\semister5\c sharp\lessons\logical operator\obj\Debug\logical_operator.Properties.Resources.resources
+D:\semister5\c sharp\lessons\logical operator\obj\Debug\logical operator.csproj.GenerateResource.cache
+D:\semister5\c sharp\lessons\logical operator\obj\Debug\logical operator.csproj.CoreCompileInputs.cache
+D:\semister5\c sharp\lessons\logical operator\obj\Debug\logical operator.exe
+D:\semister5\c sharp\lessons\logical operator\obj\Debug\logical operator.pdb
+D:\semister5\c sharp\lessons\logical operator\obj\Debug\logical operator.exe.config
+C:\c#_practice\c#_one_practice\logical operator\bin\Debug\logical operator.exe.config
+C:\c#_practice\c#_one_practice\logical operator\bin\Debug\logical operator.exe
+C:\c#_practice\c#_one_practice\logical operator\bin\Debug\logical operator.pdb
+C:\c#_practice\c#_one_practice\logical operator\obj\Debug\logical operator.csproj.AssemblyReference.cache
+C:\c#_practice\c#_one_practice\logical operator\obj\Debug\logical operator.exe.config
+C:\c#_practice\c#_one_practice\logical operator\obj\Debug\logical_operator.Form1.resources
+C:\c#_practice\c#_one_practice\logical operator\obj\Debug\logical_operator.Properties.Resources.resources
+C:\c#_practice\c#_one_practice\logical operator\obj\Debug\logical operator.csproj.GenerateResource.cache
+C:\c#_practice\c#_one_practice\logical operator\obj\Debug\logical operator.csproj.CoreCompileInputs.cache
+C:\c#_practice\c#_one_practice\logical operator\obj\Debug\logical operator.exe
+C:\c#_practice\c#_one_practice\logical operator\obj\Debug\logical operator.pdb

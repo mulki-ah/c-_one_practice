@@ -1,0 +1,32 @@
+D:\semister5\c sharp\lessons\Course Rgistration Fee System\check validation\bin\Debug\check validation.exe.config
+D:\semister5\c sharp\lessons\Course Rgistration Fee System\check validation\bin\Debug\check validation.exe
+D:\semister5\c sharp\lessons\Course Rgistration Fee System\check validation\bin\Debug\check validation.pdb
+D:\semister5\c sharp\lessons\Course Rgistration Fee System\check validation\obj\Debug\check validation.csproj.AssemblyReference.cache
+D:\semister5\c sharp\lessons\Course Rgistration Fee System\check validation\obj\Debug\check_validation.Form1.resources
+D:\semister5\c sharp\lessons\Course Rgistration Fee System\check validation\obj\Debug\check_validation.Properties.Resources.resources
+D:\semister5\c sharp\lessons\Course Rgistration Fee System\check validation\obj\Debug\check validation.csproj.GenerateResource.cache
+D:\semister5\c sharp\lessons\Course Rgistration Fee System\check validation\obj\Debug\check validation.csproj.CoreCompileInputs.cache
+D:\semister5\c sharp\lessons\Course Rgistration Fee System\check validation\obj\Debug\check validation.exe
+D:\semister5\c sharp\lessons\Course Rgistration Fee System\check validation\obj\Debug\check validation.pdb
+D:\semister5\c sharp\lessons\check validation\bin\Debug\check validation.exe.config
+D:\semister5\c sharp\lessons\check validation\bin\Debug\check validation.exe
+D:\semister5\c sharp\lessons\check validation\bin\Debug\check validation.pdb
+D:\semister5\c sharp\lessons\check validation\obj\Debug\check validation.csproj.AssemblyReference.cache
+D:\semister5\c sharp\lessons\check validation\obj\Debug\check validation.exe.config
+D:\semister5\c sharp\lessons\check validation\obj\Debug\check_validation.Form1.resources
+D:\semister5\c sharp\lessons\check validation\obj\Debug\check_validation.Properties.Resources.resources
+D:\semister5\c sharp\lessons\check validation\obj\Debug\check validation.csproj.GenerateResource.cache
+D:\semister5\c sharp\lessons\check validation\obj\Debug\check validation.csproj.CoreCompileInputs.cache
+D:\semister5\c sharp\lessons\check validation\obj\Debug\check validation.exe
+D:\semister5\c sharp\lessons\check validation\obj\Debug\check validation.pdb
+C:\c#_practice\c#_one_practice\check validation\bin\Debug\check validation.exe.config
+C:\c#_practice\c#_one_practice\check validation\bin\Debug\check validation.exe
+C:\c#_practice\c#_one_practice\check validation\bin\Debug\check validation.pdb
+C:\c#_practice\c#_one_practice\check validation\obj\Debug\check validation.csproj.AssemblyReference.cache
+C:\c#_practice\c#_one_practice\check validation\obj\Debug\check validation.exe.config
+C:\c#_practice\c#_one_practice\check validation\obj\Debug\check_validation.Form1.resources
+C:\c#_practice\c#_one_practice\check validation\obj\Debug\check_validation.Properties.Resources.resources
+C:\c#_practice\c#_one_practice\check validation\obj\Debug\check validation.csproj.GenerateResource.cache
+C:\c#_practice\c#_one_practice\check validation\obj\Debug\check validation.csproj.CoreCompileInputs.cache
+C:\c#_practice\c#_one_practice\check validation\obj\Debug\check validation.exe
+C:\c#_practice\c#_one_practice\check validation\obj\Debug\check validation.pdb

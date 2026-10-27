@@ -1,0 +1,22 @@
+D:\semister5\c sharp\lessons\Airline Ticked booking system\bin\Debug\Airline Ticked booking system.exe.config
+D:\semister5\c sharp\lessons\Airline Ticked booking system\bin\Debug\Airline Ticked booking system.exe
+D:\semister5\c sharp\lessons\Airline Ticked booking system\bin\Debug\Airline Ticked booking system.pdb
+D:\semister5\c sharp\lessons\Airline Ticked booking system\obj\Debug\Airline Ticked booking system.csproj.AssemblyReference.cache
+D:\semister5\c sharp\lessons\Airline Ticked booking system\obj\Debug\Airline_Ticked_booking_system.Form1.resources
+D:\semister5\c sharp\lessons\Airline Ticked booking system\obj\Debug\Airline_Ticked_booking_system.Properties.Resources.resources
+D:\semister5\c sharp\lessons\Airline Ticked booking system\obj\Debug\Airline Ticked booking system.csproj.GenerateResource.cache
+D:\semister5\c sharp\lessons\Airline Ticked booking system\obj\Debug\Airline Ticked booking system.csproj.CoreCompileInputs.cache
+D:\semister5\c sharp\lessons\Airline Ticked booking system\obj\Debug\Airline Ticked booking system.exe
+D:\semister5\c sharp\lessons\Airline Ticked booking system\obj\Debug\Airline Ticked booking system.pdb
+D:\semister5\c sharp\lessons\Airline Ticked booking system\obj\Debug\Airline Ticked booking system.exe.config
+C:\c#_practice\c#_one_practice\Airline Ticked booking system\bin\Debug\Airline Ticked booking system.exe.config
+C:\c#_practice\c#_one_practice\Airline Ticked booking system\bin\Debug\Airline Ticked booking system.exe
+C:\c#_practice\c#_one_practice\Airline Ticked booking system\bin\Debug\Airline Ticked booking system.pdb
+C:\c#_practice\c#_one_practice\Airline Ticked booking system\obj\Debug\Airline Ticked booking system.csproj.AssemblyReference.cache
+C:\c#_practice\c#_one_practice\Airline Ticked booking system\obj\Debug\Airline Ticked booking system.exe.config
+C:\c#_practice\c#_one_practice\Airline Ticked booking system\obj\Debug\Airline_Ticked_booking_system.Form1.resources
+C:\c#_practice\c#_one_practice\Airline Ticked booking system\obj\Debug\Airline_Ticked_booking_system.Properties.Resources.resources
+C:\c#_practice\c#_one_practice\Airline Ticked booking system\obj\Debug\Airline Ticked booking system.csproj.GenerateResource.cache
+C:\c#_practice\c#_one_practice\Airline Ticked booking system\obj\Debug\Airline Ticked booking system.csproj.CoreCompileInputs.cache
+C:\c#_practice\c#_one_practice\Airline Ticked booking system\obj\Debug\Airline Ticked booking system.exe
+C:\c#_practice\c#_one_practice\Airline Ticked booking system\obj\Debug\Airline Ticked booking system.pdb

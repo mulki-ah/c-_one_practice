@@ -1,0 +1,22 @@
+D:\semister5\c sharp\lessons\Assiment_using if elseif\bin\Debug\Assiment_using if elseif.exe.config
+D:\semister5\c sharp\lessons\Assiment_using if elseif\bin\Debug\Assiment_using if elseif.exe
+D:\semister5\c sharp\lessons\Assiment_using if elseif\bin\Debug\Assiment_using if elseif.pdb
+D:\semister5\c sharp\lessons\Assiment_using if elseif\obj\Debug\Assiment_using if elseif.csproj.AssemblyReference.cache
+D:\semister5\c sharp\lessons\Assiment_using if elseif\obj\Debug\Assiment_using_if_elseif.Form1.resources
+D:\semister5\c sharp\lessons\Assiment_using if elseif\obj\Debug\Assiment_using_if_elseif.Properties.Resources.resources
+D:\semister5\c sharp\lessons\Assiment_using if elseif\obj\Debug\Assiment_using if elseif.csproj.GenerateResource.cache
+D:\semister5\c sharp\lessons\Assiment_using if elseif\obj\Debug\Assiment_using if elseif.csproj.CoreCompileInputs.cache
+D:\semister5\c sharp\lessons\Assiment_using if elseif\obj\Debug\Assiment_using if elseif.exe
+D:\semister5\c sharp\lessons\Assiment_using if elseif\obj\Debug\Assiment_using if elseif.pdb
+D:\semister5\c sharp\lessons\Assiment_using if elseif\obj\Debug\Assiment_using if elseif.exe.config
+C:\c#_practice\c#_one_practice\Assiment_using if elseif\bin\Debug\Assiment_using if elseif.exe.config
+C:\c#_practice\c#_one_practice\Assiment_using if elseif\bin\Debug\Assiment_using if elseif.exe
+C:\c#_practice\c#_one_practice\Assiment_using if elseif\bin\Debug\Assiment_using if elseif.pdb
+C:\c#_practice\c#_one_practice\Assiment_using if elseif\obj\Debug\Assiment_using if elseif.csproj.AssemblyReference.cache
+C:\c#_practice\c#_one_practice\Assiment_using if elseif\obj\Debug\Assiment_using if elseif.exe.config
+C:\c#_practice\c#_one_practice\Assiment_using if elseif\obj\Debug\Assiment_using_if_elseif.Form1.resources
+C:\c#_practice\c#_one_practice\Assiment_using if elseif\obj\Debug\Assiment_using_if_elseif.Properties.Resources.resources
+C:\c#_practice\c#_one_practice\Assiment_using if elseif\obj\Debug\Assiment_using if elseif.csproj.GenerateResource.cache
+C:\c#_practice\c#_one_practice\Assiment_using if elseif\obj\Debug\Assiment_using if elseif.csproj.CoreCompileInputs.cache
+C:\c#_practice\c#_one_practice\Assiment_using if elseif\obj\Debug\Assiment_using if elseif.exe
+C:\c#_practice\c#_one_practice\Assiment_using if elseif\obj\Debug\Assiment_using if elseif.pdb

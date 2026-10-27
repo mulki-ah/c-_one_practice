@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\semister5\\c sharp\\lessons\\Hotel Room booking calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D006C52-507D-424D-B486-C4761B82D08E}|Hotel Room booking calculator\\Hotel Room booking calculator.csproj|d:\\semister5\\c sharp\\lessons\\hotel room booking calculator\\hotel room booking calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D006C52-507D-424D-B486-C4761B82D08E}|Hotel Room booking calculator\\Hotel Room booking calculator.csproj|solutionrelative:hotel room booking calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D006C52-507D-424D-B486-C4761B82D08E}|Hotel Room booking calculator\\Hotel Room booking calculator.csproj|d:\\semister5\\c sharp\\lessons\\hotel room booking calculator\\hotel room booking calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D006C52-507D-424D-B486-C4761B82D08E}|Hotel Room booking calculator\\Hotel Room booking calculator.csproj|solutionrelative:hotel room booking calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D006C52-507D-424D-B486-C4761B82D08E}|Hotel Room booking calculator\\Hotel Room booking calculator.csproj|d:\\semister5\\c sharp\\lessons\\hotel room booking calculator\\hotel room booking calculator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D006C52-507D-424D-B486-C4761B82D08E}|Hotel Room booking calculator\\Hotel Room booking calculator.csproj|solutionrelative:hotel room booking calculator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\semister5\\c sharp\\lessons\\Hotel Room booking calculator\\Hotel Room booking calculator\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Hotel Room booking calculator\\Form1.Designer.cs",
+              "ToolTip": "D:\\semister5\\c sharp\\lessons\\Hotel Room booking calculator\\Hotel Room booking calculator\\Form1.Designer.cs",
+              "RelativeToolTip": "Hotel Room booking calculator\\Form1.Designer.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAewPgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T18:43:42.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\semister5\\c sharp\\lessons\\Hotel Room booking calculator\\Hotel Room booking calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Hotel Room booking calculator\\Form1.cs",
+              "ToolTip": "D:\\semister5\\c sharp\\lessons\\Hotel Room booking calculator\\Hotel Room booking calculator\\Form1.cs",
+              "RelativeToolTip": "Hotel Room booking calculator\\Form1.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T16:35:09.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\semister5\\c sharp\\lessons\\Hotel Room booking calculator\\Hotel Room booking calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Hotel Room booking calculator\\Form1.cs",
+              "ToolTip": "D:\\semister5\\c sharp\\lessons\\Hotel Room booking calculator\\Hotel Room booking calculator\\Form1.cs [Design]",
+              "RelativeToolTip": "Hotel Room booking calculator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T16:15:58.886Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
