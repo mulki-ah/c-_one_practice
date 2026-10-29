@@ -1,0 +1,11 @@
+D:\semister5\c sharp\lessons\tip_tax_total_assiment\tip_tax_total_assiment\bin\Debug\tip_tax_total_assiment.exe.config
+D:\semister5\c sharp\lessons\tip_tax_total_assiment\tip_tax_total_assiment\bin\Debug\tip_tax_total_assiment.exe
+D:\semister5\c sharp\lessons\tip_tax_total_assiment\tip_tax_total_assiment\bin\Debug\tip_tax_total_assiment.pdb
+D:\semister5\c sharp\lessons\tip_tax_total_assiment\tip_tax_total_assiment\obj\Debug\tip_tax_total_assiment.csproj.AssemblyReference.cache
+D:\semister5\c sharp\lessons\tip_tax_total_assiment\tip_tax_total_assiment\obj\Debug\tip_tax_total_assiment.Form1.resources
+D:\semister5\c sharp\lessons\tip_tax_total_assiment\tip_tax_total_assiment\obj\Debug\tip_tax_total_assiment.Properties.Resources.resources
+D:\semister5\c sharp\lessons\tip_tax_total_assiment\tip_tax_total_assiment\obj\Debug\tip_tax_total_assiment.csproj.GenerateResource.cache
+D:\semister5\c sharp\lessons\tip_tax_total_assiment\tip_tax_total_assiment\obj\Debug\tip_tax_total_assiment.csproj.CoreCompileInputs.cache
+D:\semister5\c sharp\lessons\tip_tax_total_assiment\tip_tax_total_assiment\obj\Debug\tip_tax_total_assiment.exe
+D:\semister5\c sharp\lessons\tip_tax_total_assiment\tip_tax_total_assiment\obj\Debug\tip_tax_total_assiment.pdb
+D:\semister5\c sharp\lessons\tip_tax_total_assiment\tip_tax_total_assiment\obj\Debug\tip_tax_total_assiment.exe.config
