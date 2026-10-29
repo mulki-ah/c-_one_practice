@@ -1,0 +1,11 @@
+D:\semister5\c sharp\lessons\practicFiles\practicFiles\bin\Debug\practicFiles.exe.config
+D:\semister5\c sharp\lessons\practicFiles\practicFiles\bin\Debug\practicFiles.exe
+D:\semister5\c sharp\lessons\practicFiles\practicFiles\bin\Debug\practicFiles.pdb
+D:\semister5\c sharp\lessons\practicFiles\practicFiles\obj\Debug\practicFiles.csproj.AssemblyReference.cache
+D:\semister5\c sharp\lessons\practicFiles\practicFiles\obj\Debug\practicFiles.Form1.resources
+D:\semister5\c sharp\lessons\practicFiles\practicFiles\obj\Debug\practicFiles.Properties.Resources.resources
+D:\semister5\c sharp\lessons\practicFiles\practicFiles\obj\Debug\practicFiles.csproj.GenerateResource.cache
+D:\semister5\c sharp\lessons\practicFiles\practicFiles\obj\Debug\practicFiles.csproj.CoreCompileInputs.cache
+D:\semister5\c sharp\lessons\practicFiles\practicFiles\obj\Debug\practicFiles.exe
+D:\semister5\c sharp\lessons\practicFiles\practicFiles\obj\Debug\practicFiles.pdb
+D:\semister5\c sharp\lessons\practicFiles\practicFiles\obj\Debug\practicFiles.exe.config
