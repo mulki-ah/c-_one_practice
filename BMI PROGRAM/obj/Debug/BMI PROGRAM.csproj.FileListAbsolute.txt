@@ -1,0 +1,11 @@
+D:\semister5\c sharp\lessons\BMI PROGRAM\BMI PROGRAM\obj\Debug\BMI PROGRAM.csproj.AssemblyReference.cache
+D:\semister5\c sharp\lessons\BMI PROGRAM\BMI PROGRAM\obj\Debug\BMI_PROGRAM.Form1.resources
+D:\semister5\c sharp\lessons\BMI PROGRAM\BMI PROGRAM\obj\Debug\BMI_PROGRAM.Properties.Resources.resources
+D:\semister5\c sharp\lessons\BMI PROGRAM\BMI PROGRAM\obj\Debug\BMI PROGRAM.csproj.GenerateResource.cache
+D:\semister5\c sharp\lessons\BMI PROGRAM\BMI PROGRAM\obj\Debug\BMI PROGRAM.csproj.CoreCompileInputs.cache
+D:\semister5\c sharp\lessons\BMI PROGRAM\BMI PROGRAM\bin\Debug\BMI PROGRAM.exe.config
+D:\semister5\c sharp\lessons\BMI PROGRAM\BMI PROGRAM\bin\Debug\BMI PROGRAM.exe
+D:\semister5\c sharp\lessons\BMI PROGRAM\BMI PROGRAM\bin\Debug\BMI PROGRAM.pdb
+D:\semister5\c sharp\lessons\BMI PROGRAM\BMI PROGRAM\obj\Debug\BMI PROGRAM.exe
+D:\semister5\c sharp\lessons\BMI PROGRAM\BMI PROGRAM\obj\Debug\BMI PROGRAM.pdb
+D:\semister5\c sharp\lessons\BMI PROGRAM\BMI PROGRAM\obj\Debug\BMI PROGRAM.exe.config
