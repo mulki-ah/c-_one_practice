@@ -20,3 +20,14 @@ D:\semister5\c sharp\lessons\Course_Registration_forms\Course_Registration_forms
 D:\semister5\c sharp\lessons\Course_Registration_forms\Course_Registration_forms\obj\Debug\Course_Registration_forms.csproj.CoreCompileInputs.cache
 D:\semister5\c sharp\lessons\Course_Registration_forms\Course_Registration_forms\obj\Debug\Course_Registration_forms.exe
 D:\semister5\c sharp\lessons\Course_Registration_forms\Course_Registration_forms\obj\Debug\Course_Registration_forms.pdb
+C:\c#_practice\c#_one_practice\Course_Registration_forms\Course_Registration_forms\bin\Debug\Course_Registration_forms.exe.config
+C:\c#_practice\c#_one_practice\Course_Registration_forms\Course_Registration_forms\bin\Debug\Course_Registration_forms.exe
+C:\c#_practice\c#_one_practice\Course_Registration_forms\Course_Registration_forms\bin\Debug\Course_Registration_forms.pdb
+C:\c#_practice\c#_one_practice\Course_Registration_forms\Course_Registration_forms\obj\Debug\Course_Registration_forms.csproj.AssemblyReference.cache
+C:\c#_practice\c#_one_practice\Course_Registration_forms\Course_Registration_forms\obj\Debug\Course_Registration_forms.exe.config
+C:\c#_practice\c#_one_practice\Course_Registration_forms\Course_Registration_forms\obj\Debug\Course_Registration_forms.Form1.resources
+C:\c#_practice\c#_one_practice\Course_Registration_forms\Course_Registration_forms\obj\Debug\Course_Registration_forms.Properties.Resources.resources
+C:\c#_practice\c#_one_practice\Course_Registration_forms\Course_Registration_forms\obj\Debug\Course_Registration_forms.csproj.GenerateResource.cache
+C:\c#_practice\c#_one_practice\Course_Registration_forms\Course_Registration_forms\obj\Debug\Course_Registration_forms.csproj.CoreCompileInputs.cache
+C:\c#_practice\c#_one_practice\Course_Registration_forms\Course_Registration_forms\obj\Debug\Course_Registration_forms.exe
+C:\c#_practice\c#_one_practice\Course_Registration_forms\Course_Registration_forms\obj\Debug\Course_Registration_forms.pdb

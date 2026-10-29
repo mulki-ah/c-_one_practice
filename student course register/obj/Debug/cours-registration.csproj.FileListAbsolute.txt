@@ -1,0 +1,22 @@
+D:\Assigmnt 2,3\course register\bin\Debug\Assigmnt 2,3.exe.config
+D:\Assigmnt 2,3\course register\bin\Debug\Assigmnt 2,3.exe
+D:\Assigmnt 2,3\course register\bin\Debug\Assigmnt 2,3.pdb
+D:\Assigmnt 2,3\course register\obj\Debug\cours-registration.csproj.AssemblyReference.cache
+D:\Assigmnt 2,3\course register\obj\Debug\Assigmnt 2,3.exe.config
+D:\Assigmnt 2,3\course register\obj\Debug\Assigmnt_2_3.Form1.resources
+D:\Assigmnt 2,3\course register\obj\Debug\Assigmnt_2_3.Properties.Resources.resources
+D:\Assigmnt 2,3\course register\obj\Debug\cours-registration.csproj.GenerateResource.cache
+D:\Assigmnt 2,3\course register\obj\Debug\cours-registration.csproj.CoreCompileInputs.cache
+D:\Assigmnt 2,3\course register\obj\Debug\Assigmnt 2,3.exe
+D:\Assigmnt 2,3\course register\obj\Debug\Assigmnt 2,3.pdb
+D:\course registration\course register\bin\Debug\Assigmnt 2,3.exe.config
+D:\course registration\course register\bin\Debug\Assigmnt 2,3.exe
+D:\course registration\course register\bin\Debug\Assigmnt 2,3.pdb
+D:\course registration\course register\obj\Debug\cours-registration.csproj.AssemblyReference.cache
+D:\course registration\course register\obj\Debug\Assigmnt 2,3.exe.config
+D:\course registration\course register\obj\Debug\Assigmnt_2_3.Form1.resources
+D:\course registration\course register\obj\Debug\Assigmnt_2_3.Properties.Resources.resources
+D:\course registration\course register\obj\Debug\cours-registration.csproj.GenerateResource.cache
+D:\course registration\course register\obj\Debug\cours-registration.csproj.CoreCompileInputs.cache
+D:\course registration\course register\obj\Debug\Assigmnt 2,3.exe
+D:\course registration\course register\obj\Debug\Assigmnt 2,3.pdb

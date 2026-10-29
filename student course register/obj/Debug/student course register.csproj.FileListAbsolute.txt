@@ -1,0 +1,22 @@
+C:\Users\pc\OneDrive\Desktop\C# practice\Assigmnt 2,3\Assigmnt 2,3\bin\Debug\Assigmnt 2,3.exe.config
+C:\Users\pc\OneDrive\Desktop\C# practice\Assigmnt 2,3\Assigmnt 2,3\bin\Debug\Assigmnt 2,3.exe
+C:\Users\pc\OneDrive\Desktop\C# practice\Assigmnt 2,3\Assigmnt 2,3\bin\Debug\Assigmnt 2,3.pdb
+C:\Users\pc\OneDrive\Desktop\C# practice\Assigmnt 2,3\Assigmnt 2,3\obj\Debug\Assigmnt 2,3.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Desktop\C# practice\Assigmnt 2,3\Assigmnt 2,3\obj\Debug\Assigmnt_2_3.Form1.resources
+C:\Users\pc\OneDrive\Desktop\C# practice\Assigmnt 2,3\Assigmnt 2,3\obj\Debug\Assigmnt_2_3.Properties.Resources.resources
+C:\Users\pc\OneDrive\Desktop\C# practice\Assigmnt 2,3\Assigmnt 2,3\obj\Debug\Assigmnt 2,3.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Desktop\C# practice\Assigmnt 2,3\Assigmnt 2,3\obj\Debug\Assigmnt 2,3.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\C# practice\Assigmnt 2,3\Assigmnt 2,3\obj\Debug\Assigmnt 2,3.exe
+C:\Users\pc\OneDrive\Desktop\C# practice\Assigmnt 2,3\Assigmnt 2,3\obj\Debug\Assigmnt 2,3.pdb
+C:\Users\pc\OneDrive\Desktop\C# practice\Assigmnt 2,3\Assigmnt 2,3\obj\Debug\Assigmnt 2,3.exe.config
+D:\Assigmnt 2,3\course register\bin\Debug\Assigmnt 2,3.exe.config
+D:\Assigmnt 2,3\course register\bin\Debug\Assigmnt 2,3.exe
+D:\Assigmnt 2,3\course register\bin\Debug\Assigmnt 2,3.pdb
+D:\Assigmnt 2,3\course register\obj\Debug\Assigmnt 2,3.csproj.AssemblyReference.cache
+D:\Assigmnt 2,3\course register\obj\Debug\Assigmnt 2,3.exe.config
+D:\Assigmnt 2,3\course register\obj\Debug\Assigmnt_2_3.Form1.resources
+D:\Assigmnt 2,3\course register\obj\Debug\Assigmnt_2_3.Properties.Resources.resources
+D:\Assigmnt 2,3\course register\obj\Debug\Assigmnt 2,3.csproj.GenerateResource.cache
+D:\Assigmnt 2,3\course register\obj\Debug\Assigmnt 2,3.csproj.CoreCompileInputs.cache
+D:\Assigmnt 2,3\course register\obj\Debug\Assigmnt 2,3.exe
+D:\Assigmnt 2,3\course register\obj\Debug\Assigmnt 2,3.pdb

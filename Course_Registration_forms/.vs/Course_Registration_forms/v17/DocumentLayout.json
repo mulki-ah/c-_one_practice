@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\semister5\\c sharp\\lessons\\Course_Registration_forms\\",
+  "WorkspaceRootPath": "C:\\c#_practice\\c#_one_practice\\Course_Registration_forms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6DFD35F-CF33-4BDE-B848-78077A5F45F3}|Course_Registration_forms\\Course_Registration_forms.csproj|D:\\semister5\\c sharp\\lessons\\Course_Registration_forms\\course_registration_forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6DFD35F-CF33-4BDE-B848-78077A5F45F3}|Course_Registration_forms\\Course_Registration_forms.csproj|c:\\c#_practice\\c#_one_practice\\course_registration_forms\\course_registration_forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6DFD35F-CF33-4BDE-B848-78077A5F45F3}|Course_Registration_forms\\Course_Registration_forms.csproj|solutionrelative:course_registration_forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6DFD35F-CF33-4BDE-B848-78077A5F45F3}|Course_Registration_forms\\Course_Registration_forms.csproj|D:\\semister5\\c sharp\\lessons\\Course_Registration_forms\\course_registration_forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E6DFD35F-CF33-4BDE-B848-78077A5F45F3}|Course_Registration_forms\\Course_Registration_forms.csproj|C:\\c#_practice\\c#_one_practice\\Course_Registration_forms\\course_registration_forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E6DFD35F-CF33-4BDE-B848-78077A5F45F3}|Course_Registration_forms\\Course_Registration_forms.csproj|solutionrelative:course_registration_forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -32,9 +32,7 @@
               "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\SEMESTER 4\\DATABASE\\C#_practice\\C#_one_practice\\Course_Registration_forms\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\SEMESTER 4\\DATABASE\\C#_practice\\C#_one_practice\\Course_Registration_forms\\Form1.cs",
               "ToolTip": "D:\\SEMESTER 4\\DATABASE\\C#_practice\\C#_one_practice\\Course_Registration_forms\\Form1.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\SEMESTER 4\\DATABASE\\C#_practice\\C#_one_practice\\Course_Registration_forms\\Form1.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-19T18:32:10.838Z"
             },
@@ -42,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\semister5\\c sharp\\lessons\\Course_Registration_forms\\Course_Registration_forms\\Form1.cs",
+              "DocumentMoniker": "C:\\c#_practice\\c#_one_practice\\Course_Registration_forms\\Course_Registration_forms\\Form1.cs",
               "RelativeDocumentMoniker": "Course_Registration_forms\\Form1.cs",
-              "ToolTip": "D:\\semister5\\c sharp\\lessons\\Course_Registration_forms\\Course_Registration_forms\\Form1.cs",
+              "ToolTip": "C:\\c#_practice\\c#_one_practice\\Course_Registration_forms\\Course_Registration_forms\\Form1.cs",
               "RelativeToolTip": "Course_Registration_forms\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwBUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-09T12:21:27.581Z",
               "EditorCaption": ""
@@ -55,13 +53,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\semister5\\c sharp\\lessons\\Course_Registration_forms\\Course_Registration_forms\\Form1.cs",
+              "DocumentMoniker": "C:\\c#_practice\\c#_one_practice\\Course_Registration_forms\\Course_Registration_forms\\Form1.cs",
               "RelativeDocumentMoniker": "Course_Registration_forms\\Form1.cs",
               "ToolTip": "D:\\semister5\\c sharp\\lessons\\Course_Registration_forms\\Course_Registration_forms\\Form1.cs [Design]",
-              "RelativeToolTip": "Course_Registration_forms\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T12:10:56.964Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-10-09T12:10:56.964Z"
             }
           ]
         }
