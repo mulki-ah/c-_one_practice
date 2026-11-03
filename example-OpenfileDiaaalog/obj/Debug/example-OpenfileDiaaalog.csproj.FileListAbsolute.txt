@@ -1,0 +1,11 @@
+D:\semister5\c sharp\lessons\example-OpenfileDiaaalog\example-OpenfileDiaaalog\bin\Debug\example-OpenfileDiaaalog.exe.config
+D:\semister5\c sharp\lessons\example-OpenfileDiaaalog\example-OpenfileDiaaalog\bin\Debug\example-OpenfileDiaaalog.exe
+D:\semister5\c sharp\lessons\example-OpenfileDiaaalog\example-OpenfileDiaaalog\bin\Debug\example-OpenfileDiaaalog.pdb
+D:\semister5\c sharp\lessons\example-OpenfileDiaaalog\example-OpenfileDiaaalog\obj\Debug\example-OpenfileDiaaalog.csproj.AssemblyReference.cache
+D:\semister5\c sharp\lessons\example-OpenfileDiaaalog\example-OpenfileDiaaalog\obj\Debug\example_OpenfileDiaaalog.Form1.resources
+D:\semister5\c sharp\lessons\example-OpenfileDiaaalog\example-OpenfileDiaaalog\obj\Debug\example_OpenfileDiaaalog.Properties.Resources.resources
+D:\semister5\c sharp\lessons\example-OpenfileDiaaalog\example-OpenfileDiaaalog\obj\Debug\example-OpenfileDiaaalog.csproj.GenerateResource.cache
+D:\semister5\c sharp\lessons\example-OpenfileDiaaalog\example-OpenfileDiaaalog\obj\Debug\example-OpenfileDiaaalog.csproj.CoreCompileInputs.cache
+D:\semister5\c sharp\lessons\example-OpenfileDiaaalog\example-OpenfileDiaaalog\obj\Debug\example-OpenfileDiaaalog.exe
+D:\semister5\c sharp\lessons\example-OpenfileDiaaalog\example-OpenfileDiaaalog\obj\Debug\example-OpenfileDiaaalog.pdb
+D:\semister5\c sharp\lessons\example-OpenfileDiaaalog\example-OpenfileDiaaalog\obj\Debug\example-OpenfileDiaaalog.exe.config
