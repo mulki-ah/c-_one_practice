@@ -1,0 +1,22 @@
+C:\C# Projects\Employee attendence management system\Employee attendence management system\bin\Debug\Employee attendence management system.exe.config
+C:\C# Projects\Employee attendence management system\Employee attendence management system\bin\Debug\Employee attendence management system.exe
+C:\C# Projects\Employee attendence management system\Employee attendence management system\bin\Debug\Employee attendence management system.pdb
+C:\C# Projects\Employee attendence management system\Employee attendence management system\obj\Debug\Employee attendence management system.csproj.AssemblyReference.cache
+C:\C# Projects\Employee attendence management system\Employee attendence management system\obj\Debug\Employee_attendence_management_system.Form1.resources
+C:\C# Projects\Employee attendence management system\Employee attendence management system\obj\Debug\Employee_attendence_management_system.Properties.Resources.resources
+C:\C# Projects\Employee attendence management system\Employee attendence management system\obj\Debug\Employee attendence management system.csproj.GenerateResource.cache
+C:\C# Projects\Employee attendence management system\Employee attendence management system\obj\Debug\Employee attendence management system.csproj.CoreCompileInputs.cache
+C:\C# Projects\Employee attendence management system\Employee attendence management system\obj\Debug\Employee attendence management system.exe
+C:\C# Projects\Employee attendence management system\Employee attendence management system\obj\Debug\Employee attendence management system.pdb
+C:\C# Projects\Employee attendence management system\Employee attendence management system\obj\Debug\Employee attendence management system.exe.config
+D:\Employee attendence management system\Employee attendence management system\bin\Debug\Employee attendence management system.exe.config
+D:\Employee attendence management system\Employee attendence management system\bin\Debug\Employee attendence management system.exe
+D:\Employee attendence management system\Employee attendence management system\bin\Debug\Employee attendence management system.pdb
+D:\Employee attendence management system\Employee attendence management system\obj\Debug\Employee attendence management system.csproj.AssemblyReference.cache
+D:\Employee attendence management system\Employee attendence management system\obj\Debug\Employee attendence management system.exe.config
+D:\Employee attendence management system\Employee attendence management system\obj\Debug\Employee_attendence_management_system.Form1.resources
+D:\Employee attendence management system\Employee attendence management system\obj\Debug\Employee_attendence_management_system.Properties.Resources.resources
+D:\Employee attendence management system\Employee attendence management system\obj\Debug\Employee attendence management system.csproj.GenerateResource.cache
+D:\Employee attendence management system\Employee attendence management system\obj\Debug\Employee attendence management system.csproj.CoreCompileInputs.cache
+D:\Employee attendence management system\Employee attendence management system\obj\Debug\Employee attendence management system.exe
+D:\Employee attendence management system\Employee attendence management system\obj\Debug\Employee attendence management system.pdb
